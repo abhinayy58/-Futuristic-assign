@@ -1,12 +1,35 @@
-# React + Vite
+# Futuristic Assignment 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built with **React + Vite** for blazing fast development, HMR (Hot Module Replacement), and ESLint integration.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [futuractic.netlify.app](https://futuractic.netlify.app/)  
+📂 **Repository:** [GitHub Repo](https://github.com/abhinayy58/-Futuristic-assign)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ⚡ Tech Stack
+- [Vite](https://vitejs.dev/) – Next Generation Frontend Tooling
+- [React](https://react.dev/) – UI Library
+- [TailwindCSS](https://tailwindcss.com/) (if used in your project)
+- ESLint – Code Quality & Linting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/abhinayy58/-Futuristic-assign.git
+cd -Futuristic-assign
+
+
+2. Install Dependencies
+npm install
+
+
+3. Start Development Server
+npm run dev
+
+
+4. Build for Production
+npm run build
